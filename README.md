@@ -41,6 +41,9 @@ rainmaker9000/
 ### Check out the youtube video!
 ### [Youtube Link](https://www.youtube.com/watch?v=TsRYO3gziak)
 
+### You can also find the project on Printables
+### [Printables Link](https://www.printables.com/model/1356419-rainmaker-9000-a-diy-smart-plant-watering-system)
+
 ---
 
 ## 🧠 How It Works
