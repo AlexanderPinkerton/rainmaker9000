@@ -49,10 +49,8 @@ rainmaker9000/
 ## 🧠 How It Works
 
 1. A **top-mounted water reservoir** feeds a water rail via gravity.
-2. The ESP32 controls **relay-driven solenoid valves** via a shift register or GPIO expansion.
-3. Each module contains a relay+valve and passes control/data downstream.
+2. The ESP32 controls 12V relays which then control **solenoid valves**.
 4. The **touchscreen interface** allows users to configure:
-
    * Milliliters per watering cycle
    * Frequency: daily or weekly
 5. The system saves user settings and tracks the last watering time.
@@ -65,7 +63,7 @@ rainmaker9000/
 
 * 1x ESP32 CYD Dev Board with touchscreen (LVGL-compatible)
 * 12V DC power supply
-* 12V solenoid valves
+* 12V Solenoid valves
 * 12V Relay modules (1 per valve)
 * 1/4 OD Tubing & fittings
 * 3D-printed housing (in `models/`)
