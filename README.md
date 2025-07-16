@@ -1,6 +1,6 @@
 # 🌧️ Rainmaker 9000
 
-**Rainmaker 9000** is a modular, gravity-fed, automatic plant watering system powered by an ESP32 microcontroller with a touchscreen interface. It lets you configure and automate watering schedules for 2 independently controlled solenoid valves—no plumbing skills required.
+**Rainmaker 9000** is a gravity-fed, automatic plant watering system powered by an ESP32 microcontroller with a touchscreen interface. It lets you configure and automate watering schedules for 2 independently controlled solenoid valves—no plumbing skills required.
 
 This project is ideal for makers, tinkerers, and home gardeners who want to combine DIY electronics with smart automation.
 
