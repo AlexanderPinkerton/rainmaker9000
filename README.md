@@ -38,6 +38,9 @@ rainmaker9000/
 
 ![Finished Project](./image1.png)
 
+### Check out the youtube video!
+### [Youtube Link](https://www.youtube.com/watch?v=TsRYO3gziak)
+
 ---
 
 ## 🧠 How It Works
