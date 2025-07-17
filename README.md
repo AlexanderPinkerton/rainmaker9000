@@ -61,17 +61,19 @@ rainmaker9000/
 
 ### 📦 What You Need
 
-* 1x ESP32 CYD Dev Board with touchscreen (LVGL-compatible)
-* 12V DC power supply
-* 12V Solenoid valves
-* 12V Relay modules (1 per valve)
-* 1/4 OD Tubing & fittings
+* 1x ESP32 CYD Dev Board with touchscreen - [Amazon Link](https://www.amazon.com/dp/B0CLR7MQ91?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+* 12V DC power supply - [Amazon Link](https://www.amazon.com/dp/B01GEA8PQA?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* 2x 12V Solenoid valves - [Amazon Link](https://www.amazon.com/dp/B084YTNG2P?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* 2x 12V Relay modules - [Amazon Link](https://www.amazon.com/dp/B095YFJ69T?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+* 1/4 OD Tubing & fittings - [Amazon Link](https://www.amazon.com/dp/B08BLC8PZ2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+* 5V Waterproof Buck Converter - [Amazon Link](https://www.amazon.com/dp/B0CMZWN7WS?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* Random screws from your garage
 * 3D-printed housing (in `models/`)
 
 ### 🚀 Upload Firmware
 
 1. Open `rainmaker9000.ino` in Arduino IDE.
-2. Install dependencies (LVGL v9+, TFT_eSPI, XPT2046_Touchscreen, etc.).
+2. Install dependencies (LVGL v9+, TFT_eSPI, XPT2046_Touchscreen, etc.) - You will need to configure TFT_eSPI for this project.
 3. Set your board and port.
 4. Upload the firmware to your ESP32.
 
